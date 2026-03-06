@@ -1,0 +1,43 @@
+16주 중 
+1~8 주 pandas
+9~16 주 visualization
+
+AI사용 안 해줬음 좋겠다
+개발환경6주 중 
+1~8 주 pandas
+9~16 주 visualization
+
+AI사용 안 해줬음 좋겠다
+개발환경
+
+vscode 
+Jupyter (Julia+Python+R)
+
+anacond Prompt 명령어
+
+conda -> 사용가능 
+cls -> 화면지우기
+conda env list ->env list가 몇 개있는지 
+
+환경만들기 
+conda create(만들기) -n(name) test(사용자 이름) -> 환경 만들기 (-naver 설정이름)
+conda create(만들기) -n(name) test2(사용자 이름) python=3.12(언어=버전) -> 환경 만들면서 파이썬과 버전설치 
+
+conda activate test2(사용자이름) -> 설정환경 이동 
+conda deactivate -> 집으로 돌아가기
+
+conda install ipykernel -> kernel 설치 *iptkervel은 주피터가 사용!  
+conda install pandas -> pandas 설치  
+conda install python=3.12 -> python 설치  *Anaconda가 사용 
+
+vscode 
+컨트롤+쉬프트+P => 명령검색 
+jupyter => 새공책 생성 
+
+jupyter은 커널이 필요함 
+
+ESC+B => 셀 추가 
+ESC+D+D => 셀 삭제 
+ESC+shift+- => 셀 분할 
+
+import pandas -> miniconda라서 에러남 (anacond 에서 pandas 설치하면 됨 )
